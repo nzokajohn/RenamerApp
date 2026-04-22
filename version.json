@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "1.2.0",
   "download_url": "https://github.com/nzokajohn/RenamerApp/releases/latest",
-  "release_notes": "🚀 NEW: Profiles & Strict Case Formatting! Save your exact settings for different projects, and automatically force filenames to lowercase or UPPERCASE."
+  "release_notes": "🚀 NEW: Profile Sharing & Sequence Padding! Export your presets to share with the team, and control exact file numbering (01 vs 001)."
 }

@@ -59,6 +59,7 @@ chmod +x build_app.command
 4. The standalone .app file will be generated in the dist folder. Zip it and upload it to GitHub Releases!
 
 📡 The Auto-Updater System
+
 This app utilizes a serverless auto-updater. When you push a new release to your team:
 
 Upload the new .zip to GitHub Releases.

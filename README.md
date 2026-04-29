@@ -1,6 +1,6 @@
 # 🎬 Media File Renamer Pro
 
-**Version:** 1.3.2 | **OS:** macOS (Highly Optimized) / Windows Compatible
+**Version:** 1.3.0 | **OS:** macOS (Highly Optimized)
 
 **Media File Renamer Pro** is a powerful, Python-based desktop application designed to completely automate the tedious process of renaming media files and audio stems for strict Content Management System (CMS) delivery. It enforces strict naming conventions, calculates MD5 checksums, prevents accidental overwrites, and automatically generates organized Excel Delivery Manifests.
 

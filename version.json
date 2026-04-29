@@ -1,8 +1,5 @@
 {
   "version": "1.3.0",
   "download_url": "https://github.com/nzokajohn/RenamerApp/releases/latest",
-  "release_notes": "🚀 NEW: 
-1. Full Delivery Manifests & QA Tools! Added MD5 Checksums, Video Duration extraction, Smart Sorting (Date/Time), and a Pre-Flight CMS Safety Checker. 
-2. The app now automatically detects and permanently strips emojis (🚀, 🔥) and hidden illegal characters from filenames so CMS databases never reject them! 
-3. UI Improvements! The app now automatically scrolls down when you open Advanced Options so you never lose your place."
+  "release_notes": "🚀 NEW:Full Delivery Manifests & QA Tools! Added MD5 Checksums, Video Duration extraction, Smart Sorting (Date/Time), and a Pre-Flight CMS Safety Checker. The app now automatically detects and permanently strips emojis (🚀, 🔥) and hidden illegal characters from filenames so CMS databases never reject them! UI Improvements! The app now automatically scrolls down when you open Advanced Options so you never lose your place."
 }

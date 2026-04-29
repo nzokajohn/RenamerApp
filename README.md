@@ -62,11 +62,11 @@ chmod +x build_app.command
 
 This app utilizes a serverless auto-updater. When you push a new release to your team:
 
-Upload the new .zip to GitHub Releases.
+1. Upload the new .zip to GitHub Releases.
 
-Edit the version.json file in the root of this repository to reflect the new version number and release notes.
+2. Edit the version.json file in the root of this repository to reflect the new version number and release notes.
 
-The next time a team member opens their older version of the app, it will read the JSON file, detect the math discrepancy, and trigger an update popup!
+3. The next time a team member opens their older version of the app, it will read the JSON file, detect the math discrepancy, and trigger an update popup!
 
 Built with Python, CustomTkinter, and OpenPyXL.
 
